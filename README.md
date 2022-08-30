@@ -22,9 +22,9 @@ Choose your mood from the mood toggle:
 Then play this game with the Computer.
 
 Choose one of these buttons: 
-1. rock
-2. paper
-3. scissors
+1. rock;
+2. paper;
+3. scissors.
 
 **Try not to lose!**
 
